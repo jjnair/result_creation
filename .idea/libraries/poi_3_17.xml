@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="poi-3.17">
+    <CLASSES>
+      <root url="jar://D:/JavaSeleniumSetup/poi-3.17.jar!/" />
+      <root url="jar://D:/JavaSeleniumSetup/ojdbc6.jar!/" />
+      <root url="jar://D:/JavaSeleniumSetup/ibatis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

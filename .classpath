@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/ssuradkar/Downloads/ibatis.jar/ibatis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssuradkar/Downloads/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssuradkar/Downloads/jar_files/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssuradkar/Downloads/jar_files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssuradkar/Downloads/jar_files/easy-excel-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssuradkar/Downloads/jar_files/poi-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssuradkar/Downloads/jar_files/poi-ooxml-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssuradkar/Downloads/jar_files/poi-ooxml-schemas-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssuradkar/Downloads/jar_files/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssuradkar/Downloads/jar_files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssuradkar/Downloads/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
